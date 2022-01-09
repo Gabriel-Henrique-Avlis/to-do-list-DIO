@@ -1,0 +1,21 @@
+h1 {
+    padding-left: 3%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button {
+    background-color: aquamarine;
+    color: blue;
+    border: blue 1px solid;
+    border-radius: 3px;
+}
+
+button:hover {
+    background-color: blue;
+    color: aquamarine;
+    border: aquamarine 1px solid;
+}
+
+input{
+    border-radius: 3px;
+}
